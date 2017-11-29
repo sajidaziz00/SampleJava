@@ -58,8 +58,8 @@
         </build>
 <distributionManagement>
   <repository>
-    <id>com.ing.bank</id>
-    <url>http://54.254.254.36:8081/nexus/content/repositories/com.ing.bank</url>
+    <id>com.ing.new</id>
+    <url>http://54.254.254.36:8081/nexus/content/repositories/com.ing.new</url>
   </repository>
 </distributionManagement>
 
